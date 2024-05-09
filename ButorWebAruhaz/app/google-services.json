@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996866600342",
+    "project_id": "butorwebaruhaz",
+    "storage_bucket": "butorwebaruhaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996866600342:android:e9bd31b508c429518801b7",
+        "android_client_info": {
+          "package_name": "com.example.butorwebaruhaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQQepo9dbyDIDS6QfTx7_RPNkH57JZqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

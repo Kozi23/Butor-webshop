@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Kijelentkezés"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="Új Áru hozzáadása"
+        android:id="@+id/menu_add_item"
+        android:icon="@drawable/add_item_icon"
+        android:iconTint="@android:color/background_light"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Kosár"
+        android:id="@+id/menu_cart"
+        android:icon="@drawable/ic_cart"
+        android:iconTint="@android:color/background_light"
+        app:showAsAction="always"
+        />
+
+</menu>
