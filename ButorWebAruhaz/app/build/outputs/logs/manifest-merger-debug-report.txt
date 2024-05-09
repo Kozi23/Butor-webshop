@@ -1,0 +1,811 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Mattdog\.gradle\caches\transforms-3\15c0f375ea1363dade31665f35cfc8a1\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mattdog\.gradle\caches\transforms-3\9a256289df39dd87728b0e254c374031\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e17da22a6a082571f64b03c4302b516e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\a6aee662810fd793c52fe57674d8c209\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\cb4284047020ac07de2ec1568e7c36b1\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\588e37c56cd0eabad5c9b59fb0378030\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\baca148da63f6a9da595a4e348c6b547\transformed\firebase-analytics-21.6.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\fac7ff68aeca7df24c7428781535da0a\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\2c6a0a76d7179e745b71d1506f0fa1ee\transformed\play-services-measurement-sdk-21.6.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\6b15a047b800ae8d72cd0fa073e0b138\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8ecc4d96ab2962a68d48db0d37fdde3f\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\47ce71e6492a37bab6c07bd8a041632e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Mattdog\.gradle\caches\transforms-3\66fefe2a86dafc52b6c3fe4318369e1c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d478b7b2fa6ec89230a30a8792b4d98b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\8f91e4ff4de872b1d5f3a576fe8abce5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\98de2d8de1dcdbef43f7e1e422c4a386\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\120212d99de53be228166b6ecdcd0aa3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\795765cfb237c6d0a968752057be39ab\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91eaa999dc925424f7cc9f5296154d9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0278e3e1e9635c855d3169bf232ad530\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\51fbecf54d2530e07e799fe8882109e4\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\d661edaf049eb24ea05a121d7452c736\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\a47df86890f9a4e4f4f6c78217d3d571\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\23f718cbb24c90f83d5195c39e224e3f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mattdog\.gradle\caches\transforms-3\fa432f710d905d0118095cdbfa44fc1d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\645d38f745c2940758814a46b6646010\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\bcfa21f45ed47c6882f7729abf3293de\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0f4483226b3cf6bb82e2a9895aa6400e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\22b541abac9da1b0ee1edd04b115dfe8\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0c45d85d84a1f3e4c1b831347f5cb45f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\50c1582c4f63ceb960946c63aa4726ce\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\807790ef509ca848bc78c97fb6a903bc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\cd8f71b300dc6ec2a5c9d3d91cd24251\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\22e04b03c811d82412e2a8e3b6f4ffce\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\3053206f566f5d2d3d4b8f148b560a86\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b339c916a9d5e4bde928ce0f4d67a7ea\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dfa2420dc357e3cd89d1414d56de423e\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\52cf9fc8424dd97027d61cc4f161cac5\transformed\play-services-measurement-base-21.6.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\149acbe7e252acdfbe7ae655bf780d21\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\dd83a69c13d25a414722793a6c43a9c5\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mattdog\.gradle\caches\transforms-3\74a8266c330d61f5f9c2ee21700c2cb9\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\f6e9b0bc4d0479271759559d4553f811\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8afe6bc018b63f73064970436a6e9b4a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c5cbd8beebf1327258addf870b23c7a4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\76951c3dd9d95938e3a9098f9bd73e15\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\1148897af98f89c1a18bd46ed16ea3e4\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Mattdog\.gradle\caches\transforms-3\716151b931cbd48b9fe6c0c21b103f12\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dcf0d5e84968eab848761cead216015f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b1db3efb2025449904e8f2f76c5cf129\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9ed47e8c9f7f89851ca7ccaf00c2fb50\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9c5cd3bbb63a5ae9bab3ac814325027d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\656f2193eef3988aa8c22797523aeda0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d793c5d83d9897d1f65ed64e286bcf46\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\3d28f051d4fa1f802a0c750c3267258e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a315b517140a19d88c475ca36367c381\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\893ca22690d2cd7067cc75d0591f3433\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:10:5-13:40
+	android:maxSdkVersion
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:12:9-35
+	tools:ignore
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:13:9-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:11:9-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:15:5-17:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:17:9-35
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:16:9-64
+application
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:19:5-54:19
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:19:5-54:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Mattdog\.gradle\caches\transforms-3\15c0f375ea1363dade31665f35cfc8a1\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Mattdog\.gradle\caches\transforms-3\15c0f375ea1363dade31665f35cfc8a1\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mattdog\.gradle\caches\transforms-3\9a256289df39dd87728b0e254c374031\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mattdog\.gradle\caches\transforms-3\9a256289df39dd87728b0e254c374031\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\baca148da63f6a9da595a4e348c6b547\transformed\firebase-analytics-21.6.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\baca148da63f6a9da595a4e348c6b547\transformed\firebase-analytics-21.6.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\fac7ff68aeca7df24c7428781535da0a\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\fac7ff68aeca7df24c7428781535da0a\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\2c6a0a76d7179e745b71d1506f0fa1ee\transformed\play-services-measurement-sdk-21.6.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\2c6a0a76d7179e745b71d1506f0fa1ee\transformed\play-services-measurement-sdk-21.6.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8ecc4d96ab2962a68d48db0d37fdde3f\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8ecc4d96ab2962a68d48db0d37fdde3f\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\47ce71e6492a37bab6c07bd8a041632e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\47ce71e6492a37bab6c07bd8a041632e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:29:5-30:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mattdog\.gradle\caches\transforms-3\fa432f710d905d0118095cdbfa44fc1d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mattdog\.gradle\caches\transforms-3\fa432f710d905d0118095cdbfa44fc1d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dfa2420dc357e3cd89d1414d56de423e\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dfa2420dc357e3cd89d1414d56de423e\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\52cf9fc8424dd97027d61cc4f161cac5\transformed\play-services-measurement-base-21.6.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\52cf9fc8424dd97027d61cc4f161cac5\transformed\play-services-measurement-base-21.6.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\149acbe7e252acdfbe7ae655bf780d21\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\149acbe7e252acdfbe7ae655bf780d21\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b1db3efb2025449904e8f2f76c5cf129\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b1db3efb2025449904e8f2f76c5cf129\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:24:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:22:9-54
+	android:roundIcon
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:25:9-54
+	tools:targetApi
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:28:9-29
+	android:icon
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:27:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:21:9-65
+activity#com.example.butorwebaruhaz.CartActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:30:13-41
+activity#com.example.butorwebaruhaz.ItemUpdateAndDeleteActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:33:13-56
+activity#com.example.butorwebaruhaz.AddItemActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:36:13-44
+activity#com.example.butorwebaruhaz.HomeActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.example.butorwebaruhaz.RegisterActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:41:9-44:58
+	android:parentActivityName
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:44:13-55
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:42:13-45
+activity#com.example.butorwebaruhaz.MainActivity
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:exported
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml:51:27-74
+uses-sdk
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Mattdog\.gradle\caches\transforms-3\15c0f375ea1363dade31665f35cfc8a1\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Mattdog\.gradle\caches\transforms-3\15c0f375ea1363dade31665f35cfc8a1\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mattdog\.gradle\caches\transforms-3\9a256289df39dd87728b0e254c374031\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Mattdog\.gradle\caches\transforms-3\9a256289df39dd87728b0e254c374031\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e17da22a6a082571f64b03c4302b516e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e17da22a6a082571f64b03c4302b516e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\a6aee662810fd793c52fe57674d8c209\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\a6aee662810fd793c52fe57674d8c209\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\cb4284047020ac07de2ec1568e7c36b1\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\cb4284047020ac07de2ec1568e7c36b1\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\588e37c56cd0eabad5c9b59fb0378030\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\588e37c56cd0eabad5c9b59fb0378030\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\baca148da63f6a9da595a4e348c6b547\transformed\firebase-analytics-21.6.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\baca148da63f6a9da595a4e348c6b547\transformed\firebase-analytics-21.6.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\fac7ff68aeca7df24c7428781535da0a\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\fac7ff68aeca7df24c7428781535da0a\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\2c6a0a76d7179e745b71d1506f0fa1ee\transformed\play-services-measurement-sdk-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\2c6a0a76d7179e745b71d1506f0fa1ee\transformed\play-services-measurement-sdk-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\6b15a047b800ae8d72cd0fa073e0b138\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\6b15a047b800ae8d72cd0fa073e0b138\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8ecc4d96ab2962a68d48db0d37fdde3f\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8ecc4d96ab2962a68d48db0d37fdde3f\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\47ce71e6492a37bab6c07bd8a041632e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\47ce71e6492a37bab6c07bd8a041632e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Mattdog\.gradle\caches\transforms-3\66fefe2a86dafc52b6c3fe4318369e1c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Mattdog\.gradle\caches\transforms-3\66fefe2a86dafc52b6c3fe4318369e1c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d478b7b2fa6ec89230a30a8792b4d98b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d478b7b2fa6ec89230a30a8792b4d98b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\8f91e4ff4de872b1d5f3a576fe8abce5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\8f91e4ff4de872b1d5f3a576fe8abce5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\98de2d8de1dcdbef43f7e1e422c4a386\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\98de2d8de1dcdbef43f7e1e422c4a386\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\120212d99de53be228166b6ecdcd0aa3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\120212d99de53be228166b6ecdcd0aa3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\795765cfb237c6d0a968752057be39ab\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\795765cfb237c6d0a968752057be39ab\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91eaa999dc925424f7cc9f5296154d9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91eaa999dc925424f7cc9f5296154d9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0278e3e1e9635c855d3169bf232ad530\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0278e3e1e9635c855d3169bf232ad530\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\51fbecf54d2530e07e799fe8882109e4\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\51fbecf54d2530e07e799fe8882109e4\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\d661edaf049eb24ea05a121d7452c736\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\d661edaf049eb24ea05a121d7452c736\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\a47df86890f9a4e4f4f6c78217d3d571\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\a47df86890f9a4e4f4f6c78217d3d571\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\23f718cbb24c90f83d5195c39e224e3f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\23f718cbb24c90f83d5195c39e224e3f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mattdog\.gradle\caches\transforms-3\fa432f710d905d0118095cdbfa44fc1d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mattdog\.gradle\caches\transforms-3\fa432f710d905d0118095cdbfa44fc1d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\645d38f745c2940758814a46b6646010\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\645d38f745c2940758814a46b6646010\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\bcfa21f45ed47c6882f7729abf3293de\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\bcfa21f45ed47c6882f7729abf3293de\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0f4483226b3cf6bb82e2a9895aa6400e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\0f4483226b3cf6bb82e2a9895aa6400e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\22b541abac9da1b0ee1edd04b115dfe8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\22b541abac9da1b0ee1edd04b115dfe8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0c45d85d84a1f3e4c1b831347f5cb45f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0c45d85d84a1f3e4c1b831347f5cb45f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\50c1582c4f63ceb960946c63aa4726ce\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\50c1582c4f63ceb960946c63aa4726ce\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\807790ef509ca848bc78c97fb6a903bc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\807790ef509ca848bc78c97fb6a903bc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\cd8f71b300dc6ec2a5c9d3d91cd24251\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\cd8f71b300dc6ec2a5c9d3d91cd24251\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\22e04b03c811d82412e2a8e3b6f4ffce\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\22e04b03c811d82412e2a8e3b6f4ffce\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\3053206f566f5d2d3d4b8f148b560a86\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\3053206f566f5d2d3d4b8f148b560a86\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b339c916a9d5e4bde928ce0f4d67a7ea\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b339c916a9d5e4bde928ce0f4d67a7ea\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dfa2420dc357e3cd89d1414d56de423e\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dfa2420dc357e3cd89d1414d56de423e\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\52cf9fc8424dd97027d61cc4f161cac5\transformed\play-services-measurement-base-21.6.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\52cf9fc8424dd97027d61cc4f161cac5\transformed\play-services-measurement-base-21.6.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\149acbe7e252acdfbe7ae655bf780d21\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\149acbe7e252acdfbe7ae655bf780d21\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\dd83a69c13d25a414722793a6c43a9c5\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\dd83a69c13d25a414722793a6c43a9c5\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mattdog\.gradle\caches\transforms-3\74a8266c330d61f5f9c2ee21700c2cb9\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Mattdog\.gradle\caches\transforms-3\74a8266c330d61f5f9c2ee21700c2cb9\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\f6e9b0bc4d0479271759559d4553f811\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\f6e9b0bc4d0479271759559d4553f811\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8afe6bc018b63f73064970436a6e9b4a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\8afe6bc018b63f73064970436a6e9b4a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c5cbd8beebf1327258addf870b23c7a4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c5cbd8beebf1327258addf870b23c7a4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\76951c3dd9d95938e3a9098f9bd73e15\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Mattdog\.gradle\caches\transforms-3\76951c3dd9d95938e3a9098f9bd73e15\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\1148897af98f89c1a18bd46ed16ea3e4\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Mattdog\.gradle\caches\transforms-3\1148897af98f89c1a18bd46ed16ea3e4\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Mattdog\.gradle\caches\transforms-3\716151b931cbd48b9fe6c0c21b103f12\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Mattdog\.gradle\caches\transforms-3\716151b931cbd48b9fe6c0c21b103f12\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dcf0d5e84968eab848761cead216015f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\dcf0d5e84968eab848761cead216015f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b1db3efb2025449904e8f2f76c5cf129\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\b1db3efb2025449904e8f2f76c5cf129\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9ed47e8c9f7f89851ca7ccaf00c2fb50\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9ed47e8c9f7f89851ca7ccaf00c2fb50\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9c5cd3bbb63a5ae9bab3ac814325027d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\9c5cd3bbb63a5ae9bab3ac814325027d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\656f2193eef3988aa8c22797523aeda0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\656f2193eef3988aa8c22797523aeda0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d793c5d83d9897d1f65ed64e286bcf46\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\d793c5d83d9897d1f65ed64e286bcf46\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\3d28f051d4fa1f802a0c750c3267258e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\3d28f051d4fa1f802a0c750c3267258e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a315b517140a19d88c475ca36367c381\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a315b517140a19d88c475ca36367c381\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\893ca22690d2cd7067cc75d0591f3433\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\893ca22690d2cd7067cc75d0591f3433\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mattdog\Desktop\git\butorwebaruahz\ButorWebAruhaz\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\Mattdog\.gradle\caches\transforms-3\8f2997eb8879c0a0389b4bc85395f97c\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a315b517140a19d88c475ca36367c381\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a315b517140a19d88c475ca36367c381\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\Mattdog\.gradle\caches\transforms-3\0d9c2bf671b9237d335ebc035a505e78\transformed\firebase-auth-22.3.1\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\Mattdog\.gradle\caches\transforms-3\229e461190a70d05a12b77a2b4995394\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\814ddf551031a8c8df4dd4d17b181451\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.2] C:\Users\Mattdog\.gradle\caches\transforms-3\3387983173aebe16c03a43a7a75297e1\transformed\firebase-appcheck-17.1.2\AndroidManifest.xml:29:17-117
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mattdog\.gradle\caches\transforms-3\21db7be91a26b444eb5c88406a7dce59\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\027cc30d29ea6505f69ee34f31061068\transformed\play-services-measurement-sdk-api-21.6.2\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\a5acb6b06e8c04cffe2d8f65f47f5843\transformed\play-services-measurement-api-21.6.2\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\81259639131a0892c4a6a3bf45623057\transformed\firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\472128a66e2b6e8fe895b925f259fe1a\transformed\firebase-common-ktx-20.4.3\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.3] C:\Users\Mattdog\.gradle\caches\transforms-3\0abe2f47a81ea8c62ddab222cd132c04\transformed\firebase-common-20.4.3\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\e82cd919133bcb5231f738078ace6fbd\transformed\play-services-measurement-impl-21.6.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.6.2] C:\Users\Mattdog\.gradle\caches\transforms-3\c91d172be4ceed392e338b2975121e84\transformed\play-services-measurement-21.6.2\AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Mattdog\.gradle\caches\transforms-3\e946814ac5bd0380a1b4e6bed8f05a33\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Mattdog\.gradle\caches\transforms-3\1d64969e47965c40f9e4a8ae20e01f11\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mattdog\.gradle\caches\transforms-3\e2db1f12c79fb94d744117d7e10ebfa7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Mattdog\.gradle\caches\transforms-3\91bde3bba1d120142db893e33e7aad18\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mattdog\.gradle\caches\transforms-3\8848b9e9ec513af2ed156a82ae8df455\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.butorwebaruhaz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.butorwebaruhaz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Mattdog\.gradle\caches\transforms-3\c1c97531bcc3aa01d1f8c7797405b429\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Mattdog\.gradle\caches\transforms-3\51be4220e59b0ce99086b3e50eadc6b0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\5a0ae83467ad5d88b3a6885ee3927f56\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Mattdog\.gradle\caches\transforms-3\aaafda1f7dd50b0e742435c3e8aa40f2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
